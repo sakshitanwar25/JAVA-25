@@ -56,7 +56,7 @@ class Item{
 
     }
 }
-public class Main{                            //only one public class in one file
+public class Assignment1{                            //only one public class in one file
     public static void main(String[] args){          // main() is method name and starting point of program execution
 
         Scanner sc = new Scanner(System.in);           // Scanner is predefined class and sc is object name it can also be s,ab or anything else
@@ -96,13 +96,4 @@ public class Main{                            //only one public class in one fil
         sc.close();
     }
 
-}                          
-
-
-
-
-
-
-
-    
-
+}
